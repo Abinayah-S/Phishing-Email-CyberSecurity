@@ -1,0 +1,13 @@
+From: icloud <apple-noreply@icloudsecure.co>
+To: John Price
+Subject: iCloud full!
+
+Hello John,
+
+Your iCloud storage is full! You've exceeded you storage plan, you documents, contacts, and device data are no longer backing up to the iCloud and you photos and videos are not uploading to iCloud Photo.
+iCloud Drive and iCloud-enabled apps are not update across you devices.
+
+To continue using these iCloud services, you need to upgrade to iCloud+ or reduce the amount of storage you are using.
+Click here to [Upgrade to iCloud+ with 50 GB for $0.99 per month]
+
+The icloud team
