@@ -39,10 +39,4 @@ This analysis demonstrates:
  * Understanding how attackers weaponize artificial urgency.
  * Safely handling, documenting, and reporting suspicious emails within an enterprise environment.
 
-## Tools Used
-- MXToolbox
-- ExpandURL
-- WHOIS Lookup
-- VirusTotal
-
 This project was completed as part of a cybersecurity internship focused on threat analysis and security awareness.
